@@ -17,9 +17,15 @@ sections:
       I’m a dynamic Sales & Marketing Leader, Business Growth Strategist,
       Property Leasing Specialist, Music Producer, and Illustrator.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      As a dynamic Sales & Marketing Leader, Business Growth Strategist, and
+      Property Leasing Specialist, I thrive on driving impactful business
+      results. With a deep understanding of market trends and a passion for
+      innovative strategies, I help businesses scale and achieve their growth
+      potential. Alongside my professional expertise, I'm also a creative force
+      as a Music Producer and Illustrator, bringing unique artistic visions to
+      life. Whether it's navigating the business landscape or crafting
+      captivating sounds and visuals, I’m committed to excellence and continuous
+      innovation.
     styles:
       self:
         height: auto
