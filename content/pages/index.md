@@ -14,8 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a dynamic Sales & Marketing Leader, Business Growth Strategist,
-      Property Leasing Specialist, Music Producer, and Illustrator.
+      I’m a dynamic Sales & Marketing Leader, Business Growth Strategist, &
+      Property Leasing Specialist.
     subtitle: >-
       As a dynamic Sales & Marketing Leader, Business Growth Strategist, and
       Property Leasing Specialist, I thrive on driving impactful business
