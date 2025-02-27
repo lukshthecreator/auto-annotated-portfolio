@@ -72,7 +72,7 @@ sections:
       - type: Label
         label: Property Leasing & Real Estate Negotiation
       - type: Label
-        label: Next.js
+        label: Client Relationship Management
       - type: Label
         label: Netlify
       - type: Label
