@@ -17,9 +17,7 @@ sections:
       ## Hey, I’m Lakshya Sharma. I thrive in sales, marketing, and business
       growth, with a knack for property leasing and strategic expansion. Born
       and raised in India, I’m now based in Canada, navigating new
-      opportunities. Beyond business, I’m a music producer, illustrator, and
-      guitarist, always exploring creativity. When I’m not closing deals or
-      creating, I focus on health, mindful eating, and personal growth.
+      opportunities. 
 
     media:
       type: ImageBlock
