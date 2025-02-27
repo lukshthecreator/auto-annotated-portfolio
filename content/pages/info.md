@@ -68,7 +68,7 @@ sections:
       - type: Label
         label: Sales & Business Development
       - type: Label
-        label: React
+        label: Marketing Strategy & Brand Positioning
       - type: Label
         label: Microsoft Office
       - type: Label
