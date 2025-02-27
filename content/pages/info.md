@@ -70,7 +70,7 @@ sections:
       - type: Label
         label: Marketing Strategy & Brand Positioning
       - type: Label
-        label: Microsoft Office
+        label: Property Leasing & Real Estate Negotiation
       - type: Label
         label: Next.js
       - type: Label
