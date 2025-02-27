@@ -80,7 +80,7 @@ sections:
       - type: Label
         label: Strategic Thinking & Problem-Solving
       - type: Label
-        label: Swift
+        label: Communication & Persuasion
   - type: TextSection
     variant: variant-a
     subtitle: 'Contact:'
