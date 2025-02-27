@@ -76,7 +76,7 @@ sections:
       - type: Label
         label: Market Research & Competitive Analysis
       - type: Label
-        label: Pancakes
+        label: Growth Strategy & Revenue Optimization
       - type: Label
         label: C++
       - type: Label
