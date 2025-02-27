@@ -156,7 +156,7 @@ sections:
         actions:
           - type: Link
             label: GMAIL
-            url: 'https://discord.com/'
+            url: LAKSHYA.SHARMA24@GMAIL.COM
         styles:
           self:
             textAlign: left
