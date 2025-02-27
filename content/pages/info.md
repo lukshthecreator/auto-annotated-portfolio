@@ -78,7 +78,7 @@ sections:
       - type: Label
         label: Growth Strategy & Revenue Optimization
       - type: Label
-        label: C++
+        label: Strategic Thinking & Problem-Solving
       - type: Label
         label: Swift
   - type: TextSection
