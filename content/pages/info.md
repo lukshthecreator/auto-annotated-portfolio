@@ -74,7 +74,7 @@ sections:
       - type: Label
         label: Client Relationship Management
       - type: Label
-        label: Netlify
+        label: Market Research & Competitive Analysis
       - type: Label
         label: Pancakes
       - type: Label
