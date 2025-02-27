@@ -81,12 +81,6 @@ sections:
         label: Strategic Thinking & Problem-Solving
       - type: Label
         label: Communication & Persuasion
-  - type: TextSection
-    variant: variant-a
-    subtitle: 'Contact:'
-    colors: colors-f
-    text: |
-      [LAKSHYA.SHARMA24@GMAIL.COM](mailto:thisismyemail.@myemail.me)
   - type: DividerSection
     styles:
       self:
