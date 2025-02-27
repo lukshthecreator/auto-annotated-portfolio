@@ -13,11 +13,14 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ## Hey, I’m Lakshya Sharma. I thrive in sales, marketing, and business
+      growth, with a knack for property leasing and strategic expansion. Born
+      and raised in India, I’m now based in Canada, navigating new
+      opportunities. Beyond business, I’m a music producer, illustrator, and
+      guitarist, always exploring creativity. When I’m not closing deals or
+      creating, I focus on health, mindful eating, and personal growth.
+
     media:
       type: ImageBlock
       url: /images/Screenshot 2025-02-27 at 12.19.58 PM.png
