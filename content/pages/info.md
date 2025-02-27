@@ -135,6 +135,7 @@ sections:
           - type: Link
             label: LinkedIn
             url: 'https://www.linkedin.com/lakshya-s-050691137'
+            iconPosition: left
         styles:
           self:
             textAlign: left
