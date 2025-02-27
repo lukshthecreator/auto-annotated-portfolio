@@ -66,7 +66,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Sales & Business Development
       - type: Label
         label: React
       - type: Label
