@@ -98,7 +98,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [LAKSHYA.SHARMA24@GMAIL.COM](mailto:thisismyemail.@myemail.me)
   - type: DividerSection
     styles:
       self:
