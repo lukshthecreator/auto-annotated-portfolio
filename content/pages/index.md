@@ -21,11 +21,7 @@ sections:
       Property Leasing Specialist, I thrive on driving impactful business
       results. With a deep understanding of market trends and a passion for
       innovative strategies, I help businesses scale and achieve their growth
-      potential. Alongside my professional expertise, I'm also a creative force
-      as a Music Producer and Illustrator, bringing unique artistic visions to
-      life. Whether it's navigating the business landscape or crafting
-      captivating sounds and visuals, I’m committed to excellence and continuous
-      innovation.
+      potential.
     styles:
       self:
         height: auto
