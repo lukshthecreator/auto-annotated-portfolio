@@ -116,26 +116,21 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: |+
           **Current**
 
-          * freelance @freelance.me
+          *   Leasing Agent - Medallion Corp
 
-          **2018-2021**
+          **2023 - 2025**
 
-          * fullstack at this startup
+          *   Leasing Specialist - Patry Groups
 
-          **2015**
+          **2022 - 2023**
 
-          * senior front-end at this place
+          *   Leasing Administrator - Hyde Park Properties
 
-          **2013**
 
-          * intern developer at a big company
 
-          **2011**
-
-          * flipping burgers
         styles:
           self:
             textAlign: left
