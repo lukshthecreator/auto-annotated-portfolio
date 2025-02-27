@@ -140,7 +140,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: 'https://www.linkedin.com/lakshya-s-050691137'
         styles:
           self:
             textAlign: left
