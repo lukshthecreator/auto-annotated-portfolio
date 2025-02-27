@@ -141,18 +141,17 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2022-2023**
 
-          * ba computer sciense at a semi fancy school
+          *   Post Graduate Diploma - BMIB
 
-          **2014**
+          **2018 - 2021**
 
-          * react certificate somewhere
+          *   Bachelor's Degree - Business Administration
 
-          **2011**
 
-          * my highschool
+
         styles:
           self:
             textAlign: left
